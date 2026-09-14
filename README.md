@@ -262,35 +262,28 @@ The exact dependencies are listed in `requirements.txt`.
 ## Interface
 
 ### Main Interface
-
-![ROSIF-HEX Interface](screenshots/dashboard.png)
+!ROSIF-HEX SCREENSHOTS/ROSIF DASHBOARD.png
 
 The main interface provides access to the heat exchanger inputs, simulation controls, calculations, and results.
 
 ### Geometry & Design Inputs
 
-![Geometry Inputs](screenshots/geometry.png)
+ROSIF-HEX SCREENSHOTS/ROSIF GEOMERTY.png
 
 Users can define the relevant heat exchanger geometry and operating parameters.
 
-### Simulation Results
+### Results
 
-![Simulation Results](screenshots/simulation.png)
+ROSIF-HEX SCREENSHOTS/ROSIF RESULT I.png
+ROSIF-HEX SCREENSHOTS/ROSIF RESULT II.png
 
-The simulation environment presents calculated thermal and hydraulic performance.
+The simulation environment presents calculated thermal and hydraulic performance. Results can be examined through numerical outputs and graphical representations.
 
 ### Optimization
 
-![Optimization Results](screenshots/optimization.png)
+ROSIF-HEX SCREENSHOTS/ROSIF OPTIMIZATION.png
 
 The optimization module evaluates different operating/design conditions and their corresponding thermal and hydraulic performance.
-
-### Results
-
-![Results](screenshots/results.png)
-
-Results can be examined through numerical outputs and graphical representations.
-
 ---
 
 ## General-Purpose Design
